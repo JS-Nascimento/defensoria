@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "service": "SERPRO",
+    "status": "up"
+  },
+  {
+    "id": 2,
+    "service": "Conselho Nacional de Justiça",
+    "status": "warning"
+  },
+  {
+    "id": 3,
+    "service": "Tribunal de Justiça",
+    "status": "error"
+  },
+  {
+    "id": 4,
+    "service": "Receita Federal",
+    "status": "up"
+  },
+  {
+    "id": 5,
+    "service": "Ministério da Justiça",
+    "status": "warning"
+  },
+  {
+    "id": 6,
+    "service": "Polícia Federal",
+    "status": "error"
+  },
+  {
+    "id": 7,
+    "service": "INSS",
+    "status": "up"
+  },
+  {
+    "id": 8,
+    "service": "Ministério da Saúde",
+    "status": "warning"
+  },
+  {
+    "id": 9,
+    "service": "Agência Nacional de Telecomunicações",
+    "status": "error"
+  },
+  {
+    "id": 10,
+    "service": "Banco Central do Brasil",
+    "status": "up"
+  }
+]
