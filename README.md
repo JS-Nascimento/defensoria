@@ -16,7 +16,7 @@ Siga as etapas abaixo para iniciar o projeto:
 1. Clone este repositório para sua máquina local usando o Git:
 
    ```shell
-   git clone https://github.com/seu-usuario/defensoria-panel.git
+   git clone https://github.com/JS-Nascimento/defensoria.git
 
 2. Navegue para o diretório do projeto:
 
